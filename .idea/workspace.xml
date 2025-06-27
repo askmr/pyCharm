@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a63585bb-3aa6-49b9-b931-881a5e1aa608" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2ykuYhryYP2ttSQ1l3PVvOcEdZI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Area.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Conditions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Conditions2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Demo_ElectricityBill.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Demo_Grades.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Demo_Speed.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ExponentOp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FDM_Currency.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FDM_Distance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FDM_Time.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FloorDiv_Modulus.executor&quot;: &quot;Run&quot;,
+    &quot;Python.IO_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Identify_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Interest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LastDigit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Memb_Iden.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Membership.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OperatorDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OperatorDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OperatorDemo3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Perimeter_Rect.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Perimeter_Square.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Rel_Log.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Swapping.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TemperatureConversion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print_Hi.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/atuls/PycharmProjects/June_DS1/3_Operators&quot;,
+    &quot;settings.build.tools.auto.reload&quot;: &quot;ALL&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySaveCallSignatures" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\atuls\PycharmProjects\June_DS1\3_Operators" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\atuls\PycharmProjects\June_DS1\3_Operators\SampleLogics" />
+      <recent name="C:\Users\atuls\PycharmProjects\June_DS1\3_Operators\OtherOps" />
+      <recent name="C:\Users\atuls\PycharmProjects\June_DS1\3_Operators\FloorDiv_Mod" />
+      <recent name="C:\Users\atuls\PycharmProjects\June_DS1\3_Operators\Demo" />
+      <recent name="C:\Users\atuls\PycharmProjects\June_DS1\2_IO_Functions" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Identify_Demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="June_DS1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../June_DS1/1_Identifiers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../June_DS1/1_Identifiers/Identify_Demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Identify_Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-53e2683a6804-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26094.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a63585bb-3aa6-49b9-b931-881a5e1aa608" name="Changes" comment="" />
+      <created>1750390942558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750390942558</updated>
+    </task>
+    <servers />
+  </component>
+</project>
