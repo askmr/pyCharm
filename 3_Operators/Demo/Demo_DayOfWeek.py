@@ -1,6 +1,8 @@
+import datetime
+
 Number = int(input("Enter the number1: \n"))
 
-if Number <=365:
+if Number <= 365:
 
     if Number % 7 == 1 or Number == 1:
         print("Sunday")
@@ -19,3 +21,14 @@ if Number <=365:
 
 else:
     print("INVALID")
+
+# if 1 < Number <= 365:
+#         start_date = datetime.date(2025, 1, 1)
+#         result_date = start_date + datetime.timedelta(Number - 1)
+#         week_number = result_date.isocalendar()[1]
+#
+#         print(f"Date: {result_date.strftime('%B %d, %Y')}")
+#         print(f"Week Number: {week_number}")
+#
+# else:
+#         print("\n Please enter a number between 1 and 365 \n")

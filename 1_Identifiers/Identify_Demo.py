@@ -1,5 +1,5 @@
 # To initialize and assign a value
-from tokenize import String
+# from tokenize import String
 
 # Do not use reserved keywords: for, if, break, continue, while, pass, elif, lambda...
 # Do not use space in names, use underscore or camelCase
