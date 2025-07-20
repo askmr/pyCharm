@@ -26,7 +26,7 @@ s=input("Enter the word: \n")
 #         print(i, "is skipped")
 # print(u,l)
 
-#count of charecters, skip spaces
+#count of charecters, skip spaces, occurances
 
 # c=0
 # for i in s:

@@ -20,8 +20,10 @@
 # isalpha()- to check alphabets
 # isalnum()- to check alpha and num only
 # replace()- to replace a char with other. s.replace('current', 'new')
+# lstrip()- to remove fist part
+# rstrip()- to remove last part
 
-s1= "###23####Hai@@@@23@@@"
+s1 = "###23####Hai@@@@23@@@"
 print(s1)
 # print(s1.replace('@', '!'))
 # print(s1.rstrip('@'))

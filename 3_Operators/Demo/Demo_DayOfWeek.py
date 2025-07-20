@@ -16,7 +16,7 @@ if Number <= 365:
         print("Thursday")
     elif Number % 7 == 6 or Number == 6:
         print("Friday")
-    elif Number % 7 == 0 or Number == 0:
+    elif Number % 7 == 0:
         print("Saturday")
 
 else:

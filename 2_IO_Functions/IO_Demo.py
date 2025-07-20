@@ -1,8 +1,8 @@
 # To print a message in console
-import print_Hi
+# import print_Hi
 
 # 1
-print(print_Hi)
+# print(print_Hi)
 print(" Welcoime to Luminar Technolab")
 print(" You are in PY-DS-AI-ML B1 batch")
 print(" Your educator is  Prof. Sabir")
