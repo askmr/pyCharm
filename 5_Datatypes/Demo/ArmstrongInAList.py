@@ -17,9 +17,3 @@ for n in lst:
     if s == m:
         print(m, "is Armstrong")
 
-lst1 = [1, 2, 3, 4, 5]
-add = 0
-
-for i in lst1:
-    add += i
-print(add)
