@@ -7,10 +7,12 @@ print(dct)
 dct['place']='Kollam'
 dct['RollNo']=47
 print()
-print(dct, len(dct))
+print(dct, "\n Length is:", len(dct))
+print()
 print(dct.keys())
 print(dct.values())
 print(dct.items())
+print()
 print(dct.get('place'))
 
 for i in dct.items():
