@@ -7,7 +7,10 @@ def fact():
     for i in range(1, num + 1):
         f *= i
     print(f)
+
+
 fact()
+
 
 # Method 2
 # with args
@@ -18,5 +21,6 @@ def fact1(num):
     for i in range(1, num + 1):
         f *= i
     print(f)
+
 
 fact1(6)

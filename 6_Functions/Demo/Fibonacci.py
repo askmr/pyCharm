@@ -5,4 +5,6 @@ def Fibo():
     for i in range(1, n + 1):  # Fibonacci
         print(a, end=" ")
         a, b = b, a + b
+
+
 Fibo()
