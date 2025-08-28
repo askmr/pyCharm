@@ -10,4 +10,4 @@ def prime(n):
 
 
 num = int(input("Enter the number: \n"))
-prime(num)
+print(prime(num))

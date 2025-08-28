@@ -80,7 +80,6 @@
 #     print()
 # print("*", end=" ")
 
-
 # i = 0
 # j = 0
 # n = 1
@@ -101,7 +100,6 @@
 #     print()
 # print("*", end=" ")
 
-
 # i = 0
 # j = 0
 # n = 1
@@ -111,3 +109,12 @@
 #         n += 1
 #     print()
 # print("*", end=" ")
+
+i = 0
+j = 0
+for i in range(1, 5):
+    for j in range(1,5):
+        print(i, end=" ")
+        i += 1
+    print()
+print("*", end=" ")

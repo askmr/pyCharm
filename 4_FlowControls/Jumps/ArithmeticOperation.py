@@ -18,23 +18,22 @@ while True:
     Num2 = int(input("Enter second number:"))
 
     if choice == 1:
-        print("The sum of numbers is", Num1+Num2)
+        print("The sum of numbers is", Num1 + Num2)
         print()
-    elif choice ==2:
+    elif choice == 2:
         if Num1 > Num2:
-            print("The difference of numbers is", Num1-Num2)
+            print("The difference of numbers is", Num1 - Num2)
             print()
         else:
-            print("The difference of numbers is", Num2-Num1)
+            print("The difference of numbers is", Num2 - Num1)
             print()
     elif choice == 3:
-        print("The product of numbers is", Num1*Num2)
+        print("The product of numbers is", Num1 * Num2)
         print()
     else:
-        if Num1!=0 and Num2!=0:
+        if Num1 != 0 and Num2 != 0:
             print("The division of numbers is", Num1 / Num2)
             print()
         else:
             print("Cannot divide when number is a zero")
             print()
-
