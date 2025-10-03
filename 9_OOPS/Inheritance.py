@@ -51,11 +51,12 @@ class Grade(Marks):
     def displayGrade(self):
         print("\n Grade =", self.grade)
 
-S1=Student()
+
+S1 = Student()
 S1.getData()
 S1.putData()
-M1=Marks()
+M1 = Marks()
 M1.putMarks()
 M1.getMarks()
-G1=Grade()
+G1 = Grade()
 G1.calculateGrade()
